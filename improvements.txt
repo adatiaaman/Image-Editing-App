@@ -1,0 +1,5 @@
+use Color Picker plugin for choosing font Color
+add image theme change (gray scale), feature
+add crop feature
+add pen/draw feature
+add brightness, filters
